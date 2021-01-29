@@ -8,6 +8,10 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
 # shoppinglist(orderedlists)
 1.go to walmart
 2.pick some veggies,rice,chicken
-    3.pay the bill
-    4.come back home
+    1.veggies
+    2.rice
+    3.chicken
+    4.eggs
+3.pay the bill
+4.come back home
 5.cook and eat
