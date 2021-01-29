@@ -5,7 +5,7 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
 
 ***
 
-# shoppinglist
+# processlist
 1. go to walmart
 2. pick some veggies,rice,chicken
     1. veggies
@@ -14,13 +14,8 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
     4. eggs
 3. pay the bill
 4. come back home
-5. cook and eat
-go to walmart
-pick some veggies,rice,chicken
-veggies
-   rice
-   chicken
-   eggs
-pay the bill
-come back home
-cook and eat
+   * cook the food
+   * eat the food
+   * do the assignment
+   * submit assignment
+
