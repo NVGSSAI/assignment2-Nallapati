@@ -5,9 +5,9 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
 
 ***
 
-# shoppinglist(orderedlist)
+# shoppinglist(orderedlists)
 1.go to walmart
 2.pick some veggies,rice,chicken
-3.pay the bill
-4.come back home
+    3.pay the bill
+    4.come back home
 5.cook and eat
