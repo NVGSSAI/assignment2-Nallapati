@@ -18,5 +18,18 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
    * eat the food
    * do the assignment
    * submit assignment
+
    [open my pic](AboutMe.md)
+
+   ***
+
+   # places to visit in Hyderabad(india)
+   |Location|Number of hours|Amount of money to spend|
+   |---|---|---|
+   |Charminar|2hours|2000RS|
+   |Golcondafort|3-4hours|4000RS|
+   |Birlamandir|2 hours|2000RS|
+   |Ramoji Filim city|6-7hours|7000RS|
+
+
 
