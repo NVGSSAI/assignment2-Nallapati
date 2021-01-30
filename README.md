@@ -61,7 +61,7 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
    # Photos of locations
    |location|photo|
    |---|---|
-   |Charminar|charminar.jpg|
+   |Charminar|assignment2-Nallapati(charminar.jpg)|
    |golconda fort|golconda_fort.jpg|
    |birlamandir|Birla-mandir.jpg|
 
