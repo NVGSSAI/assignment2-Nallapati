@@ -56,6 +56,16 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
 
    <https://www.tutorialspoint.com/objective_c/objective_c_classes_objects.htm>
 
+   ***
+
+   # Photos of locations
+   |location|photo|
+   |---|---|
+   |Charminar|charminar.jpg|
+   |golconda fort|golconda_fort.jpg|
+   |birlamandir|Birla-mandir.jpg|
+
+
    
 
 
