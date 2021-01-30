@@ -31,5 +31,14 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
    |Birlamandir|2 hours|2000RS|
    |Ramoji Filim city|6-7hours|7000RS|
 
+   ***
+
+   # Good Quotes
+   >There is Nothing Good or Bad but Thinking makes it so. 
+     ***William Shakespeare***
+>No legacy is so rich as honesty   
+***William Shakespeare***                                     
+
+
 
 
