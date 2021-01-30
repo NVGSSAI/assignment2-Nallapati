@@ -36,10 +36,26 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
    # Good Quotes
    >There is Nothing Good or Bad but Thinking makes it so. 
     ***William Shakespeare***
-    
-   >No legacy is so rich as honesty   
-    ***William Shakespeare***                                     
 
+   >No legacy is so rich as honesty   
+    ***William Shakespeare***      
+
+    ***
+
+    # objective-C
+    >Objective-C is the primary programming language you use when writing software for OS X and iOS. It’s a superset of the C programming language and provides object-oriented capabilities and a dynamic runtime.
+    <https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html>
+
+    ```@interface Box:NSObject {
+   //Instance variables
+   double length;    // Length of a box
+   double breadth;   // Breadth of a box
+}
+@property(nonatomic, readwrite) double height;  // Property
+
+@end
+```
+<https://www.tutorialspoint.com/objective_c/objective_c_classes_objects.htm>
 
 
 
