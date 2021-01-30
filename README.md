@@ -62,8 +62,8 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
    |location|photo|
    |---|---|
    |Charminar|![](charminar.jpg)|
-   |golconda fort|![](golconda_fort.jpg)|
-   |birlamandir|![](Birla-mandir.jpg)|
+   |Golconda Fort|![](golconda_fort.jpg)|
+   |Birla Mandir|![](Birla-Mandir.jpg)|
 
 
    
