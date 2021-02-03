@@ -35,10 +35,10 @@ I like it because **it has very unique taste**.**hyderabadi dum biryani contains
 
    # Good Quotes
    >There is Nothing Good or Bad but Thinking makes it so. 
-    ***William Shakespeare***
+    *William Shakespeare*
 
    >No legacy is so rich as honesty   
-    ***William Shakespeare***      
+    *William Shakespeare*     
 
     ***
 
